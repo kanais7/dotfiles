@@ -65,5 +65,4 @@
 	email = kanais0620@gmail.com
 [rebase]
 	autosquash = true
-[core]
-	excludesfile = /Users/kanais/.gitignore_global
+
