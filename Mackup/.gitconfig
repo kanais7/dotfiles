@@ -65,6 +65,7 @@
 	email = kanais0620@gmail.com
 [rebase]
 	autosquash = true
+	autostash = true
 
 [filter "lfs"]
 	clean = git-lfs clean -- %f
